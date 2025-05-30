@@ -1,8 +1,8 @@
 ---
 title: High Available K3S Cluster
 date: 2025-05-30 14:00:00 -0000
-categories: [kubernetes k3s]
-tags: [homelab proxmox kubernetes k3s kube-vip metallb nginx]
+categories: [kubernetes, k3s]
+tags: [homelab, proxmox, kubernetes, k3s, kube-vip, metallb, nginx]
 image:
   path: /assets/img/headers/k8s-blocks.webp
   alt: k8s blocks
