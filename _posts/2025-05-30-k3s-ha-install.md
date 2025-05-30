@@ -5,7 +5,6 @@ categories: [kubernetes, k3s]
 tags: [homelab, proxmox, kubernetes, k3s, kube-vip, metallb, nginx]
 image:
   path: /assets/img/headers/k8s-blocks.webp
-  alt: k8s blocks
 pin: false
 ---
 
